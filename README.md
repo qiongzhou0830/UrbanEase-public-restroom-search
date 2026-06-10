@@ -1,5 +1,3 @@
-# fa25-cs411-team066-labubu
-
 - Backend: Flask (port 5000)
 - Frontend: React/Vite (port 5173)
 - Database: Cloud SQL for MySQL 8
